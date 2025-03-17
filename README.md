@@ -10,9 +10,7 @@ This repository hosts **only the compiled executables** and official releases of
 
 ## 📦 What’s included
 
-- ✅ **Executable builds** (.exe, .AppImage, etc.)
-- 📝 **[Changelog](CHANGELOG.md)**
-- 📖 **Documentation** (basic usage guide)
+- 📖 **Documentation** (basic usage guide coming soon)
 - 🖥️ **Screenshots and tutorials** (coming soon)
 
 ---
