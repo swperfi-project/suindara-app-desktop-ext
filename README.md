@@ -1,7 +1,7 @@
-# Suindara App - Desktop (Public Release)
+# Suindara App - Call Drop Log Parser & Predictor (Desktop Demo)
 
-[![](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)]() [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
-[![](https://img.shields.io/badge/-SWPERFI_Project-9cf?style=for-the-badge)]()
+
+[![](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)]() [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE) [![](https://img.shields.io/badge/-SWPERFI_Project-9cf?style=for-the-badge)]() [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15036680.svg)](https://doi.org/10.5281/zenodo.15036680)
 
 **Suindara App** is a desktop application built using PySide6 to provide a graphical interface for the [`swperfi-suindara`](https://github.com/swperfi-project/swperfi-suindara) Python library. It is designed to process and analyze Android logs related to call drop events.
 
@@ -11,7 +11,7 @@ This repository hosts **only the compiled executables** and official releases of
 
 <!-- ## 📦 What’s included
 
-- 📖 **Documentation** (basic usage guide)
+- 📖 **Documentation** (basic usage guide coming soon)
 - 🖥️ **Screenshots and tutorials** (coming soon)
 
 --- -->
@@ -27,13 +27,16 @@ This repository hosts **only the compiled executables** and official releases of
 
 ## 🔽 Download
 
-Download the latest release from the [Releases Section](https://github.com/swperfi/suindara-app-desktop-ext/releases).
+Check the latest release from the [Releases Section](https://github.com/swperfi-project/suindara-app-desktop-ext/releases).
+
+- ➡️ [Download Suindara App v1.0.0 (Hosted on Zenodo - 500MB)](https://doi.org/10.5281/zenodo.15036680)
+> 📝 This build is hosted on Zenodo to ensure free and persistent access.
 
 ---
 
 ## ⚠️ Licensing Notice
 
-Suindara App is proprietary software and subject to an intellectual property agreement between **Motorola Mobility LLC** and **Federal University of Amazonas (UFAM)**.
+Suindara App is subject to an intellectual property agreement between **Motorola Mobility LLC** and **Federal University of Amazonas (UFAM)**.
 
 Usage, modification, and redistribution of this software are strictly prohibited without prior written consent from Motorola and UFAM.
 
