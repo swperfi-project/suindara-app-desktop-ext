@@ -7,16 +7,14 @@
 
 This repository hosts **only the compiled executables** and official releases of Suindara App. The source code is maintained privately.
 
----
+<!-- --- -->
 
-## 📦 What’s included
+<!-- ## 📦 What’s included
 
-- ✅ **Executable builds** (.exe, .AppImage, etc.)
-- 📝 **[Changelog](CHANGELOG.md)**
 - 📖 **Documentation** (basic usage guide)
 - 🖥️ **Screenshots and tutorials** (coming soon)
 
----
+--- -->
 
 ## 🔍 Features
 
@@ -39,12 +37,17 @@ Suindara App is proprietary software and subject to an intellectual property agr
 
 Usage, modification, and redistribution of this software are strictly prohibited without prior written consent from Motorola and UFAM.
 
+---
+
+
 ## Acknowledgments
 
-The author is part of the **ALGOX research group** at **CNPq** (Algorithms, Optimization, and Computational Complexity) and the **Postgraduate Program in Computer Science (PPGI)** at **ICOMP/UFAM**.
+The authors are part of the **ALGOX research group** at **CNPq** (Algorithms, Optimization, and Computational Complexity) and the **Postgraduate Program in Computer Science (PPGI)** at **ICOMP/UFAM**.
 
-## 👨‍💻 Author
+### 👨‍💻 Authors
 
 - Pedro Victor dos Santos Matias: Master's Student, PPGI-UFAM - [Contact](mailto:pvsm@icomp.ufam.edu.br)
+- PhD Rosiane de Freitas  - Research Supervisor and SWPERFI Coordinator
+
 
 [© SWPERFI - Artificial Intelligence Techniques for Software Performance Analysis and Optimization. All rights reserved.](https://swperfi.icomp.ufam.edu.br)
