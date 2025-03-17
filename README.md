@@ -1,7 +1,6 @@
 # Suindara App - Desktop (Public Release)
 
-[![](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)]() [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
-[![](https://img.shields.io/badge/-SWPERFI_Project-9cf?style=for-the-badge)]()
+[![](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)]() [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE) [![](https://img.shields.io/badge/-SWPERFI_Project-9cf?style=for-the-badge)]() [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15036680.svg)](https://doi.org/10.5281/zenodo.15036680)
 
 **Suindara App** is a desktop application built using PySide6 to provide a graphical interface for the [`swperfi-suindara`](https://github.com/swperfi-project/swperfi-suindara) Python library. It is designed to process and analyze Android logs related to call drop events.
 
