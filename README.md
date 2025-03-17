@@ -37,7 +37,7 @@ Or
 
 ## ⚠️ Licensing Notice
 
-Suindara App is proprietary software and subject to an intellectual property agreement between **Motorola Mobility LLC** and **Federal University of Amazonas (UFAM)**.
+Suindara App is subject to an intellectual property agreement between **Motorola Mobility LLC** and **Federal University of Amazonas (UFAM)**.
 
 Usage, modification, and redistribution of this software are strictly prohibited without prior written consent from Motorola and UFAM.
 
