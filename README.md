@@ -40,6 +40,8 @@ Suindara App is subject to an intellectual property agreement between **Motorola
 
 Usage, modification, and redistribution of this software are strictly prohibited without prior written consent from Motorola and UFAM.
 
+---
+
 ## Acknowledgments
 
 The author is part of the **ALGOX research group** at **CNPq** (Algorithms, Optimization, and Computational Complexity) and the **Postgraduate Program in Computer Science (PPGI)** at **ICOMP/UFAM**.
