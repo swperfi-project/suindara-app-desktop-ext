@@ -30,6 +30,11 @@ This repository hosts **only the compiled executables** and official releases of
 
 Download the latest release from the [Releases Section](https://github.com/swperfi-project/suindara-app-desktop-ext/releases).
 
+Or
+
+➡️ [Download Suindara App v1.0.0 (Hosted on Zenodo - 500MB)](https://doi.org/10.5281/zenodo.15036680)
+> 📝 This build is hosted on Zenodo to ensure free and persistent access.
+
 ---
 
 ## ⚠️ Licensing Notice
