@@ -28,7 +28,7 @@ This repository hosts **only the compiled executables** and official releases of
 
 ## 🔽 Download
 
-Download the latest release from the [Releases Section](https://github.com/swperfi/suindara-app-desktop-ext/releases).
+Download the latest release from the [Releases Section](https://github.com/swperfi-project/suindara-app-desktop-ext/releases).
 
 ---
 
