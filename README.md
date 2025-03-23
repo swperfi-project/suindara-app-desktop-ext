@@ -1,7 +1,12 @@
 # Suindara App - Call Drop Log Parser & Predictor (Desktop Demo)
 
 
-[![](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)]() [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE) [![](https://img.shields.io/badge/-SWPERFI_Project-9cf?style=for-the-badge)]() [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15036680.svg)](https://doi.org/10.5281/zenodo.15036680)
+[![GitHub release](https://img.shields.io/github/v/release/swperfi-project/suindara-app-desktop-ext?style=for-the-badge)](https://github.com/swperfi-project/suindara-app-desktop-ext/releases/latest)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
+[![](https://img.shields.io/badge/-SWPERFI_Project-9cf?style=for-the-badge)](https://swperfi.icomp.ufam.edu.br)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15072889.svg)](https://doi.org/10.5281/zenodo.15072889)
+
+
 
 **Suindara App** is a desktop application built using PySide6 to provide a graphical interface for the [`swperfi-suindara`](https://github.com/swperfi-project/swperfi-suindara) Python library. It is designed to process and analyze Android logs related to call drop events.
 
